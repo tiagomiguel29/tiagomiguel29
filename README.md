@@ -1,10 +1,13 @@
 ### Hello there 👋
 
+Currently working on 👉 [Project Orion - Systems Monitor](https://github.com/tiagomiguel29/project-orion)
+
+👋 Visit my [Website](https://tiagomiguel.dev)
+
 <!--
 **tiagomiguel29/tiagomiguel29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
